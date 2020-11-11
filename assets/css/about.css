@@ -1,0 +1,115 @@
+.milestone {
+    padding-top: 120px;
+    padding-bottom: 90px;
+}
+
+.miles-number {
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+.mile-counter {
+    color: #F9AD81;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 1.8;
+}
+
+.mile-text {
+   display: inline-block;
+}
+
+.mile-text h3 {
+    margin-bottom: 0;
+    color: #fff;
+}
+
+.mile-text p {
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    opacity: 0.25;
+    font-weight: bold;
+}
+
+@media (max-width:1200px) {
+    .mile-text {
+        display: block;
+    }
+    .miles-number {
+        display: block;
+    }
+}
+
+.awards {
+    padding-top: 100px;
+}
+
+.award-title h2 {
+    margin-bottom: 80px;
+    color: #242424;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.single-item {
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.single-item h5 {
+    margin-top: 35px;
+    margin-bottom: 20px;
+    color: #242424;
+    font-weight: bold;
+}
+
+.single-item h4 {
+    margin-bottom: 6px;
+    color: #242424;
+    font-weight: bold;
+}
+
+.single-item span {
+    margin-bottom: 20px;
+    color: #868686;
+    font-size: 14px;
+    text-transform: uppercase;
+    display: block;
+}
+
+.single-item p {
+    color: #9d9d9d;
+    line-height: 1.6;
+}
+
+.join-us {
+    padding-top: 55px;
+    padding-bottom: 40px;
+    background-color: #F9AD81;
+    overflow: hidden;
+}
+
+.join-text {
+    float: left;
+}
+
+.join-text h2 {
+    color: #fff;
+    font-weight: bold;
+}
+
+.join-us .reservation {
+    background-color: #242424;
+    float: right;
+}
+
+@media (max-width: 900px) {
+    .join-text {
+        margin-bottom: 30px;
+    }
+    .join-text ,
+    .join-us .reservation {
+        float: none;
+    }
+}
