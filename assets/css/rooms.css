@@ -14,7 +14,7 @@
     display: block;
     text-transform: uppercase;
     font-size: 14px;
-    font-weight: bold;
+    letter-spacing: 2px;
 }
 
 .r-text h2 {
@@ -28,6 +28,7 @@
 .r-text p {
     margin-bottom: 15px;
     color: #868686;
+    font-size: 14px;
     line-height: 1.8;
 }
 

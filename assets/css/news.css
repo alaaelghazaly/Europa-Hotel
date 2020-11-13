@@ -24,27 +24,25 @@
  .date {
     color: #a9a9a9;
     font-size: 14px;
-    font-weight: bold;
+    letter-spacing: 1px;
     text-transform: uppercase;
-    font-weight: bold;
-}
+ }
 
 .blog-title h3 {
     margin-bottom: 8px;
     color: #181717;
-    font-weight: bold;
 }
 
  .description {
     color: #f9AD81;
-    font-size: 16px;
-    font-weight: bold;
+    font-size: 14px;
     text-transform: uppercase;
 }
 
 .blog-text p {
     margin-bottom: 15px;
     color: #9d9d9d;
+    font-size: 14px;
     line-height: 1.8;
 }
 
@@ -66,12 +64,12 @@
     color: #f9AD81;
 }
 
-form {
+.search-form {
     position: relative;
     margin-bottom: 65px;
 }
 
-input {
+ .right input {
     width: 100%;
     height: 55px;
     font-size: 14px;
@@ -105,8 +103,7 @@ form .search {
 .blog-right-item ul li {
     margin-bottom: 10px;
     color: #9d9d9d;
-    font-size: 16px;
-    font-weight: bold;
+    font-size: 14px;
     list-style: none;
 }
 
@@ -124,8 +121,7 @@ form .search {
 
 .book-vaction h4 {
     color: #fff;
-    font-weight: bold;
-    line-height: 1.8;
+    line-height: 1.5;
 }
 
 .book-vaction button {

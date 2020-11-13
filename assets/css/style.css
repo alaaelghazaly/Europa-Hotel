@@ -1,22 +1,23 @@
 .header-section {
     position: relative;
-    height: 930px;
+    height: calc(100vh - 20px);
     background-image: url(../images/hero-bg.jpg);
 }
 
 .header-section h1 {
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     color: #fff;
     font-size: 80px;
     font-weight: bold;
+    text-align: center;
     transform: translate(-48%,-48%);
 }
 
 @media (max-width:768px) {
     .header-section h1 {
-        font-size: 85px;
+        font-size: 80px;
         text-align: center;
     }
 }
@@ -26,22 +27,19 @@
         height: 665px;
     }
     .header-section h1 {
-        font-size: 80px;
+        
+        font-size: 75px;
     }
 }
 
 @media (max-width:414px) {
     .text {
-        left: 35%;
+        left: 30%;
     }
     .header-section h1 {
+        width: 100%;
         font-size: 45px;
     }
-}
-
-.booking {
-    margin-top: -390px;
-    padding-bottom: 60px;
 }
 
 .intro-sec{
@@ -66,29 +64,37 @@
     margin-top: 14px;
     margin-bottom: 40px;
     color: #181717;
-    font-size: 48px;
-    line-height: 48px;
+    font-size: 46px;
+    letter-spacing: 1px;
+    line-height: 1;
     font-weight: bold;
 }
 
 .paragraph {
     margin-bottom: 15px;
-    font-size: 16px;
+    font-size: 14px;
     color: #9d9d9d;
     font-weight: 500;
     line-height: 28px;
 }
 
 .text-right{
-    padding-top: 170px;
+    padding-top: 160px; 
 }
 
 .text-right p{
+    margin-bottom: 30px;
     text-align: left;
 }
 
 .text-right .reservation {
     float: left;
+}
+
+@media (max-width:1200px) {
+    .text-right {
+        padding-top: 210px;
+    }
 }
 
 @media (max-width: 990px){
@@ -119,7 +125,7 @@
 .title h2 {
     margin-bottom: 8px;
     color: #fff;
-    font-size: 55px;
+    font-size: 45px;
 }
 
 .title p {
@@ -173,7 +179,8 @@
 
 .ti-time{
     color: #9d9d9d;
-    font-size: 12px;
+    font-size: 11px;
+    letter-spacing: 1px;
 }
 
 .testi-item h4 {
@@ -187,6 +194,7 @@
 
 .rating i {
     color: #ed8a19;
+    font-size: 14px;
 }
 
 .testi-item p {
