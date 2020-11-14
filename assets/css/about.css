@@ -29,7 +29,8 @@
     margin-right: 10px;
     
 }
-.mile-counter {
+.mile-counter,
+.mile-counter-k{
     color: #F9AD81;
     font-size: 60px;
     font-weight: bold;
