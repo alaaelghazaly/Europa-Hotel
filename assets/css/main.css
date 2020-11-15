@@ -73,6 +73,7 @@
     left: 25px;
     padding: 0 !important;
     border-radius: unset;
+    
 }
 
 .dropdown-item{
@@ -100,6 +101,7 @@
 
 .dropdown:hover .dropdown-menu {
     display: block !important;
+    
 }
 
 @media  (max-width:1100px) {
