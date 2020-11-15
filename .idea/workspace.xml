@@ -20,14 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52e7461f-382a-4634-bc8d-40169a4f44f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Europa-Hotel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Europa-Hotel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/rooms.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +72,9 @@
       <option name="presentableId" value="Default" />
       <updated>1605387582762</updated>
       <workItem from="1605387584452" duration="9576000" />
+      <workItem from="1605458059690" duration="1367000" />
+      <workItem from="1605460057158" duration="919000" />
+      <workItem from="1605482466555" duration="214000" />
     </task>
     <servers />
   </component>
@@ -92,6 +91,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="320" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1605397254911">
@@ -118,9 +118,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605393685803" />
-    <state x="667" y="261" width="585" height="558" key="find.popup" timestamp="1605392981195">
+    <state x="667" y="261" width="585" height="558" key="find.popup" timestamp="1605482557597">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="667" y="261" width="585" height="558" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605392981195" />
+    <state x="667" y="261" width="585" height="558" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605482557597" />
   </component>
 </project>
